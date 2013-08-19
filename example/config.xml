@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>example</name>
+            <displayName><![CDATA[Example]]></displayName>
+            <version><![CDATA[0.3]]></version>
+            <description><![CDATA[Description Module Example.]]></description>
+            <author><![CDATA[Prenom NOM]]></author>
+            <tab><![CDATA[others]]></tab>
+	<confirmUninstall>Are you sure you want to delete this module ?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+        </module>
